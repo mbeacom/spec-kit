@@ -50,6 +50,12 @@ Requires **[uv](https://docs.astral.sh/uv/)** ([install uv](./docs/install/uv.md
 uv tool install specify-cli --from git+https://github.com/github/spec-kit.git@vX.Y.Z
 ```
 
+Or install the latest published release from PyPI:
+
+```bash
+uv tool install specify-cli
+```
+
 See the [Installation Guide](./docs/installation.md) for alternative methods, verification, upgrade, and troubleshooting.
 
 ### 2. Initialize a project
